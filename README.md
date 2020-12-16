@@ -7,5 +7,5 @@ Cyber Security portfolio
 * Using system.net.mail & system.net in order for the keylogger to senf emails of the logs
 * Using system.windows.forms & windows.io in order for the keylogs to be stored in designated folder on C: drive
 
-![](https://github.com/ayezaee/Xavier_Portfolio/blob/main/images/ezgif.com-gif-maker.gif)
-![](https://github.com/ayezaee/Xavier_Portfolio/blob/main/images/Capture2.PNG)
+![](/images/ezgif.com-gif-maker.gif)
+![](/images/Capture2.PNG)
