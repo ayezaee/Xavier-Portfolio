@@ -1,4 +1,4 @@
-![](/images/zae%20smiling.PNG)
+![](/images/ecac.jfif)
 
 # Core Skills
 - **Programming Languages:** Python, Java, HTML/CSS/JS, C#, SQL
