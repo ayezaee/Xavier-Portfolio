@@ -26,5 +26,5 @@ Cyber Security portfolio
 ![](/images/Capture2.PNG)
 
 # Contact Information
--**Email:** reavesx@yahoo.com
--**LinkedIn:** https://www.linkedin.com/in/xavier-reaves-55a8a71aa/
+- **Email:** reavesx@yahoo.com
+- **LinkedIn:** [](https://www.linkedin.com/in/xavier-reaves-55a8a71aa/)
