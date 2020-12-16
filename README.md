@@ -1,8 +1,8 @@
 ![](/images/zae%20smiling.PNG)
 
 # Core Skills
-** Programming Languages:** Python, Java, HTML/CSS/JS, C#, SQL
-**Tools:** AWS, Jupyter Notebook, Kali Linux
+- **Programming Languages:** Python, Java, HTML/CSS/JS, C#, SQL
+- **Tools:** AWS, Jupyter Notebook, Kali Linux
 
 # LeaderShip
 - Community/Resident Assistant (2020-Present)
