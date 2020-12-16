@@ -1,4 +1,4 @@
-![](https://github.com/ayezaee/Xavier_Portfolio/blob/main/images/zae%20smiling.PNG)
+![](/images/zae%20smiling.PNG)
 
 # Core Skills
 - **Programming Languages:** Python, Java, HTML/CSS/JS, C#, SQL
