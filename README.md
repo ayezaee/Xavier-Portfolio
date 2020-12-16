@@ -3,6 +3,8 @@
 # Core Skills
 - **Programming Languages:** Python, Java, HTML/CSS/JS, C#, SQL
 - **Tools:** AWS, Jupyter Notebook, Kali Linux
+- **Other Skills:** ER Assistant, Microsoft Suite(Word, Excel, PowerPoint,Access) 
+
 
 # LeaderShip
 - Community/Resident Assistant (2020-Present)
