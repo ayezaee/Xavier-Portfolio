@@ -32,7 +32,8 @@ Cyber Security portfolio
 * Used ![](https://www.worldometers.info/coronavirus/) to obtain information on Covid-19
 * Used pyaudio and python to make a voice recognition system that answers questions on covid
 * Having answers to questions based on deaths and cases in 100+ countries
-* [link text](https://www.youtube.com/watch?v=2Ra1CCG8Guo "Video")
+* [![alt text](http://example.com/exampl.png)](https://youtu.be/boigpjHxYL0 "Example Click this link")
+
 
 
 
