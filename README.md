@@ -27,7 +27,7 @@ Cyber Security portfolio
 ![](/images/ezgif.com-gif-maker.gif)
 ![](/images/Capture2.PNG)
 
-# [Project 2: Covid scrapper/info Project Overview](https://github.com/ayezaee/Covid-Info)
+# [Project 2: Covid scrapper/info w/ voice recognition Project Overview](https://github.com/ayezaee/Covid-Info)
 * Used ![](https://www.parsehub.com/) as a scraper for Covid-19 information 
 * Used ![](https://www.worldometers.info/coronavirus/) to obtain information on Covid-19
 * Used pyaudio and python to make a voice recognition system that answers questions on covid
