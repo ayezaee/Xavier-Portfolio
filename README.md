@@ -35,6 +35,12 @@ Cyber Security portfolio
 ### Click link below for example video
 * [Example](https://youtu.be/boigpjHxYL0 "Example")
 
+# [Project 3: Meditation App Project Overview](https://github.com/ayezaee/meditation-app)
+* Using HTML/CSS/JavaScript to create in some ways a progressive web app
+* Meditation app alows you to chose 5min, 10min, and 1 hour time sessions
+* Also can change from rain sounds to waves/beach sounds
+* Also being able to switch from beach to rain backgrounds 
+
 
 
 
