@@ -40,6 +40,7 @@ Cyber Security portfolio
 * Meditation app alows you to chose 5min, 10min, and 1 hour time sessions
 * Also can change from rain sounds to waves/beach sounds
 * Also being able to switch from beach to rain backgrounds 
+![](/images//medi-app.gif)
 
 
 
