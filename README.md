@@ -16,7 +16,7 @@
 - Yoga
 
 # Xavier_Reaves Portfolio
-Cyber Security portfolio 
+
 
 # [Project 1: Diabetes Detection web app using Machine Learning : Project Overview](https://github.com/ayezaee/Machine-learning-diabetes)
 * Modules used: Pillow, numpy, Pandas, sklearn, and streamlit
