@@ -20,11 +20,11 @@
 
 # [Project 1: Diabetes Detection web app using Machine Learning : Project Overview](https://github.com/ayezaee/Machine-learning-diabetes)
 * Modules used: Pillow, numpy, Pandas, sklearn, and streamlit
-*Dataset from Kaggle( from National institute of diabetes and digestive and kidney diseases)
-*web application 
-*allows user to input information and out comes the results and probability of having diabetes
-*outside factors increasing or decreasing chances of having diabetes
-*coded in python
+* Dataset from Kaggle( from National institute of diabetes and digestive and kidney diseases)
+* web application 
+* allows user to input information and out comes the results and probability of having diabetes
+* outside factors increasing or decreasing chances of having diabetes
+* coded in python
 
 ![](/images/mldiabetesgif.gif)
 
