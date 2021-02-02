@@ -18,11 +18,14 @@
 # Xavier_Reaves Portfolio
 Cyber Security portfolio 
 
-# [Project 1: Keylogger: Project Overview](https://github.com/ayezaee/Keylogger)
-* Created a tool to track the key usage on a keyboard
-* Used C# to code this program on microsoft visual studio 
-* Using system.net.mail & system.net in order for the keylogger to send emails of the logs
-* Using system.windows.forms & windows.io in order for the keylogs to be stored in designated folder on C: drive
+# [Project 1: Diabetes Detection web app using Machine Learning : Project Overview](https://github.com/ayezaee/Machine-learning-diabetes)
+* Modules used: Pillow, numpy, Pandas, sklearn, and streamlit
+*Dataset from Kaggle( from National institute of diabetes and digestive and kidney diseases)
+*web application 
+*allows user to input information and out comes the results and probability of having diabetes
+*outside factors increasing or decreasing chances of having diabetes
+*coded in python
+
 
 # [Project 2: Keylogger: Project Overview](https://github.com/ayezaee/Keylogger)
 * Created a tool to track the key usage on a keyboard
