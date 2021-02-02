@@ -26,6 +26,8 @@ Cyber Security portfolio
 *outside factors increasing or decreasing chances of having diabetes
 *coded in python
 
+![](/images/mldiabetesgif.gif)
+
 
 # [Project 2: Keylogger: Project Overview](https://github.com/ayezaee/Keylogger)
 * Created a tool to track the key usage on a keyboard
