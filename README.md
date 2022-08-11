@@ -1,4 +1,4 @@
-![](/images/ecac.jfif)
+![](/images/linkedinpic.jpg)
 
 # Core Skills
 - **Programming Languages:** Python, Java, HTML/CSS/JS,SQL
