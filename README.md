@@ -1,13 +1,16 @@
 ![](/images/ecac.jfif)
 
 # Core Skills
-- **Programming Languages:** Python, Java, HTML/CSS/JS, C#, SQL
-- **Tools:** AWS, Jupyter Notebook, Kali Linux
-- **Other Skills:** ER Assistant, Microsoft Suite(Word, Excel, PowerPoint,Access) 
+- **Programming Languages:** Python, Java, HTML/CSS/JS,SQL
+- **Tools:** Jira, prisma cloud, Wire shark, veracode, mongoDB,
+confluence, rapid7, ParseHub, Wireshark, Git, Kali Linux,
+ubuntu,, CLI, Jupyter Notebook, Google Colab, Visual,
+Virtual box, slack,AWS, Jupyter Notebook, Kali Linux
+- **Other Skills:** Google Suite, Microsoft Suite(Word, Excel, PowerPoint,Access) 
 
 
 # LeaderShip
-- Community/Resident Assistant (2020-Present)
+- Community/Resident Assistant (2020-2022)
 - Men's Basketball Captain Committee
 
 # Hobbies/Passions
@@ -16,6 +19,18 @@
 - Yoga
 
 # Xavier_Reaves Portfolio
+
+
+# [Project: N_Tier_app_backed_by_Postgres_database_and_restful_API_calls : Project Overview](https://github.com/ayezaee/N_Tier_app_backed_by_Postgres_database_and_restful_API_calls)
+*built API with spring boot
+*coded in java
+*worked with api http methods 
+*Tools used: Spring Initializr, IntelliJ, spring jpa
+*Process: Created a class for students to store metadata of students in array/JSON format, Initilizing and connecting to postgresql db
+*learned about: Dependency injection, spring data jpa, SpringBoot
+* You can: take .jar file and deploy to a server or dockerize it to deploy in real time.
+
+![](/images/fullstack.PNG)
 
 
 # [Project 1: Diabetes Detection web app using Machine Learning : Project Overview](https://github.com/ayezaee/Machine-learning-diabetes)
