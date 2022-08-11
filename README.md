@@ -4,8 +4,8 @@
 - **Programming Languages:** Python, Java, HTML/CSS/JS,SQL
 - **Tools:** Jira, prisma cloud, Wire shark, veracode, mongoDB,
 confluence, rapid7, ParseHub, Wireshark, Git, Kali Linux,
-ubuntu,, CLI, Jupyter Notebook, Google Colab, Visual,
-Virtual box, slack,AWS, Jupyter Notebook, Kali Linux
+ubuntu,, CLI, Jupyter Notebook, Google Colab, Visual studio code,
+Virtual box, slack,AWS, Jupyter Notebook, Kali Linux, intellij
 - **Other Skills:** Google Suite, Microsoft Suite(Word, Excel, PowerPoint,Access) 
 
 
