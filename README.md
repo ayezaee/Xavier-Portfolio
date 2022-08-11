@@ -30,7 +30,7 @@ Virtual box, slack,AWS, Jupyter Notebook, Kali Linux
 *learned about: Dependency injection, spring data jpa, SpringBoot
 * You can: take .jar file and deploy to a server or dockerize it to deploy in real time.
 
-![](/images/fullstack.PNG)
+![](/images/fullstack.png)
 
 
 # [Project 1: Diabetes Detection web app using Machine Learning : Project Overview](https://github.com/ayezaee/Machine-learning-diabetes)
